@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JjhqCTypEVv1tmhFfGA/OhhIZvt+ONXNv8YGXg4MbxBifjsuF08ZPARo9fG3nVvYeQwQmvV+K2ukm4IvZj8Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ranji\\source\\repos\\poojithathimegowda\\TrainingProjects\\SQLConnectionStringPractice\\SQLConnectionStringPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranji\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.6\\microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\ranji\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\ranji\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
