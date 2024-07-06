@@ -8,8 +8,6 @@ public class CustomerManager
     {
         _connectionString = connectionString;
     }
-    // Now you can perform database operations here
-    // Create a table
     
     public void CreatTable()
     {
