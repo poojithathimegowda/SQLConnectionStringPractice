@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        string connectionString = "Data Source=C:\\projects\\Customer.db";
+        string connectionString = "Data Source=C:\\poojitha\\Clients.db";
         Console.WriteLine("Hello, World!");
         Console.WriteLine(" Insert new Customer");
         Customer customer = new Customer();
