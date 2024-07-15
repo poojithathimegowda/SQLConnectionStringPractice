@@ -9,7 +9,7 @@ public class Program
         Console.WriteLine(" Insert new Customer");
         Customer customer = new Customer();
         CustomerManager customerManager = new CustomerManager(connectionString);
-        customerManager.CreatTable();
+       // customerManager.CreatTable();
        
         Console.WriteLine("ID ");
         customer.CustomerID = int.Parse(Console.ReadLine());
